@@ -1,5 +1,5 @@
 h2{
-  color:aquamarine;
+  color:Blue;
 }
 
 article{
@@ -8,13 +8,13 @@ article{
 
 #articleOne{
   font-family:"Courier New";
-  border:3px bold lightyellow;
+  border:3px dotted green;
 
 }
 
 #articleTwo{
   font-family: 'Franklin Gothic Medium';
-  border:5px solid pink;
+  border:5px solid purple;
 }
 
 #articleThree{
