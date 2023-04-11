@@ -1,3 +1,28 @@
+h2{
+  color:aquamarine;
+}
+
+article{
+  padding:20px;
+}
+
+#articleOne{
+  font-family:"Courier New";
+  border:3px bold lightyellow;
+
+}
+
+#articleTwo{
+  font-family: 'Franklin Gothic Medium';
+  border:5px solid pink;
+}
+
+#articleThree{
+  font-family: 'Lucida Sans Unicode';
+  border:3px bold lightseagreen;
+}
+
+
 body{
-  background-color:lightblue;
+  background-color:lightgray;
 }
